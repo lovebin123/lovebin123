@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lovebin123" alt="lovebin123" /></a> </p>
 
-- 🔭 I’m currently working on **airbnb_clone**
+- 🔭 I’m currently working on **FaceFindr**
 
 - 🌱 I’m currently learning **ReactJs,OpenCV,TensorFlow**
 
